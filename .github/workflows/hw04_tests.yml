@@ -4,6 +4,7 @@ on: [push]
 
 jobs:
   tests:
+    if: github.repository == 'DNKer/hw04_tests'
     runs-on: ubuntu-latest
   
     steps:
