@@ -1,4 +1,4 @@
-## [Тестирование проекта Yatube] (https://github.com/DNKer/hw03_forms "перейти к репозитарию проекта")
+## [Тестирование проекта Yatube] (https://github.com/DNKer/hw03_forms/ "перейти к репозитарию проекта")
 
 ![workflow](https://github.com/DNKer/hw04_tests/actions/workflows/hw04_tests.yml/badge.svg?branch=master&event=push)
 
