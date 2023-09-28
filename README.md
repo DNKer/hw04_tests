@@ -2,6 +2,8 @@
 
 ![workflow](https://github.com/DNKer/hw04_tests/actions/workflows/hw04_tests.yml/badge.svg?branch=master&event=push)
 
+Цель проекта - покрыть тестами приложение Yatube. Ссылка на него выше.
+
 <img src="yatube\static\img\logo_tested.png" alt="drawing" width="250"/>
 
 ## Установка
